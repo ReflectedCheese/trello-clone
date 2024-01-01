@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <Html class="bg-cyan-500">
+    <div>
+      <NuxtPage />
+    </div>
+  </Html>
 </template>

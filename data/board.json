@@ -1,0 +1,50 @@
+{
+  "name": "task-board",
+  "columns": [
+    {
+      "name": "todo",
+      "tasks": [
+        {
+          "id": "392acd29-ee38-4eca-9d36-5f17a2a0c03d",
+          "name": "task #1",
+          "description": ""
+        },
+        {
+          "id": "01792e95-b95a-4c43-ae47-30fc302cad5f",
+          "name": "task #2",
+          "description": ""
+        },
+        {
+          "id": "eef9dcde-a39b-4c77-9b10-efe367b16115",
+          "name": "task #3",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "in-progress",
+      "tasks": [
+        {
+          "id": "2ffc0600-26f0-4fd1-800d-5a47144df6e2",
+          "name": "task #4",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "complete",
+      "tasks": [
+        {
+          "id": "81778481-b6ad-4050-8eee-7c3b867f56ce",
+          "name": "task #5",
+          "description": ""
+        },
+        {
+          "id": "324f1924-b5b7-49c0-9d12-b4474dc0173e",
+          "name": "task #5",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
